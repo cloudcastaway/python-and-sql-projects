@@ -42,6 +42,7 @@ morse-code-converter/
 ├── convert.py
 ├── intro.py
 └── script.py
+```
 
 ## Observação
 

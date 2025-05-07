@@ -37,6 +37,7 @@ The program uses SQLite (via SQLAlchemy) to store flashcards and tracks how well
 memorization-tool/
 ├── README.md
 └── main.py
+```
 
 ## Observação
 

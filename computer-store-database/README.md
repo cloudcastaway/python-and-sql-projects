@@ -36,6 +36,7 @@ computer-store-database/
 ├── makers_unique_model.sql
 ├── min_speed_models_prices.sql
 └── printers_over_200USD.sql
+```
 
 ## Observação
 

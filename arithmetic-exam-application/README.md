@@ -35,6 +35,7 @@ At the end of the quiz, users are given the option to save their result to a loc
 arithmetic-exam-application/
 ├── README.md
 └── main.py
+```
 
 ## Observação
 
