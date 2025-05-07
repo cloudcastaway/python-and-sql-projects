@@ -1,4 +1,4 @@
-# python-projects
+# python-and-sql-projects
 
 This repository collects various Python-based projects developed as part of my ongoing programming studies. These projects cover topics such as file handling, SQL querying, algorithmic problem-solving, and logic-based applications.
 
