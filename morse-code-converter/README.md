@@ -43,7 +43,3 @@ morse-code-converter/
 ├── intro.py
 └── script.py
 ```
-
-## Observação
-
-Este repositório está documentado em inglês por padrão. Caso prefira uma versão em português, estou disponível para fornecer ou explicar o conteúdo conforme necessário.

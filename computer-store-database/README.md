@@ -37,7 +37,3 @@ computer-store-database/
 ├── min_speed_models_prices.sql
 └── printers_over_200USD.sql
 ```
-
-## Observação
-
-Este repositório está documentado em inglês por padrão. Caso prefira uma versão em português, estou disponível para fornecer ou explicar o conteúdo conforme necessário.
