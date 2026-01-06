@@ -37,7 +37,3 @@ Each folder contains a self-contained project with its own README and code files
 
 This repository serves as a sandbox for learning Python fundamentals, applying algorithms, handling input/output, and using SQL in practical scenarios.  
 Most of the projects in this repository were developed through Hyperskill’s structured project tracks, which emphasize practical application of Python and problem-solving skills. The Morse Code Converter was created independently.
-
-## Observação
-
-Este repositório está documentado em inglês por padrão. Caso prefira uma versão em português, estou disponível para fornecer ou explicar o conteúdo conforme necessário.
